@@ -1,6 +1,6 @@
 // const anime = require("animejs");
 
-const aboutus = document.getElementById('aboutus');
+//const aboutus = document.getElementById('aboutus');
 const page1 = document.getElementById('first_page');
 const page2 = document.getElementById('second_page');
 const page3 = document.getElementById('third_page');
@@ -11,21 +11,8 @@ const video = document.getElementById('video');
 const cancel = document.getElementById('cancel');
 const x = document.getElementsByTagName('iframe');
 
-const goaway = ()=>{
-    event.preventDefault();
-first_page.style.display = 'none';
-video.style.display = 'block';
-x.pl
-}
-const govideo = () =>
-{
-    event.preventDefault();
-    first_page.style.display = 'block';
-video.style.display = 'none';
-}
 
-//aboutus.addEventListener('click',goaway);
-cancel.addEventListener('click',govideo);
+
 
 const burger = document.getElementById('burger');
 const backHome = document.getElementById('pnc');
