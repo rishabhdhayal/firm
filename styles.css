@@ -552,4 +552,6 @@ footer
     .third_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .fourth_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .fifth_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .sp_heading{margin-bottom: 0px;}
+    .tp_content{margin-top: 20px;}
 }   
