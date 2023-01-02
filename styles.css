@@ -554,4 +554,5 @@ footer
     .fifth_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .sp_heading{margin-bottom: 0px;}
     .tp_content{margin-top: 20px;}
+    .fp_contact{margin-top: 0px;}
 }   
