@@ -24,7 +24,7 @@ const govideo = () =>
 video.style.display = 'none';
 }
 
-aboutus.addEventListener('click',goaway);
+//aboutus.addEventListener('click',goaway);
 cancel.addEventListener('click',govideo);
 
 const burger = document.getElementById('burger');
