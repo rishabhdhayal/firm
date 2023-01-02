@@ -548,4 +548,8 @@ footer
 @media only screen and (max-width: 670px){
     .fb_1{width: 35%;}
     .footer_2{display: flex;justify-content: center;}
+        .second_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .third_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .fourth_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .fifth_page{min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center;}
 }   
